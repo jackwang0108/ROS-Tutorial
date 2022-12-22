@@ -38,7 +38,7 @@ git checkout chapter1
 (main)  *-------------------------------------------------------------*--final bool
          \                                                           /
 (main-en) |--------------chapter1-en---------chapter2-en   ...    --/
-     |             /                   /                      /
+          |             /                   /                      /
 (main-zh) |------------chapter1-zh---------chapter2-zh     ...  --/
           |           /                   /                      /
 (dev)     '----chapter1----------------chapter2------      ... -'
